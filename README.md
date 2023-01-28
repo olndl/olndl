@@ -13,4 +13,4 @@ In my free time, I strengthen my knowledge of English and Flutter development
    [`Habr Career`](https://career.habr.com/olundel)**  
 
 ## 🛠 Tech Stack:
-Git, Dart, Event Loop, Isolates, Flutter, Riverpod, BloC, Freezed, Dio, AutoRoute, SQFLite, Hive, GetIt, Jira
+Git, Dart, Event Loop, Isolates, Flutter, Riverpod, BloC, Freezed, Dio, AutoRoute, SQFLite, Hive, GetIt, Firebase Authentication, Firebase Crashlytics, Firebase Analytics, Jira
