@@ -4,8 +4,6 @@ I am a Flutter developer with 1+ years of experience <img src="https://media.gip
 - Yandex Academy graduate - <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="20" height="20"/>
 - IT School Samsung graduate - <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="20" height="20"/>
 
- <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/jambi-co-avatar_PuiQTfq.jpg" width="15" />
-
 In my free time, I strengthen my knowledge of English and Flutter development.
 
 <img src="https://komarev.com/ghpvc/?username=olndl&style=flat-square&color=blue" alt=""/>
