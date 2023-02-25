@@ -4,7 +4,7 @@ I am a Flutter developer with 1+ years of experience.
 - Yandex Academy graduate - <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/jambi-co-avatar_PuiQTfq.jpg" width="15" />
 - IT School Samsung graduate - <img src="https://images.wallpapersden.com/image/download/android-brand-logo_Z2hta2aUmZqaraWkpJRnbmhnrWduaGc.jpg" width="15" />
 
-In my free time, I strengthen my knowledge of English and Flutter development
+In my free time, I strengthen my knowledge of English and Flutter development.
 
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=Telegram&logoColor=white)](https://t.me/shiryavceva) 
