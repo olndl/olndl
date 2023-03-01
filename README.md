@@ -15,4 +15,4 @@ In my free time, I strengthen my knowledge of English and Flutter development.
 [![CV](https://img.shields.io/badge/CV-%234F5DAE.svg?logo=CV&logoColor=white)](https://docs.google.com/document/d/139ft36AKX6Tv3qVl1lmfUerrnofbYRraj1RICw8Wvq4/edit?usp=sharing)
 
 # 💻 Tech Stack:
-Git, Dart, Event Loop, Isolates, Flutter, Riverpod, BloC, Freezed, Dio, AutoRoute, SQFLite, Hive, GetIt, Firebase Authentication, Firebase Crashlytics, Firebase Analytics, Figma, Java, Jira
+Git, Java, Dart, Event Loop, Isolates, Flutter, Riverpod, BloC, Freezed, Dio, AutoRoute, SQFLite, Hive, GetIt, Firebase Authentication, Firebase Crashlytics, Firebase Analytics, Figma, Jira
