@@ -16,7 +16,3 @@ In my free time, I strengthen my knowledge of English and Flutter development.
 
 # 💻 Tech Stack:
 Git, Dart, Event Loop, Isolates, Flutter, Riverpod, BloC, Freezed, Dio, AutoRoute, SQFLite, Hive, GetIt, Firebase Authentication, Firebase Crashlytics, Firebase Analytics, Figma, Jira
-
-# 📊 Stats:
-![](https://github-readme-stats.vercel.app/api?username=olndl&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=olndl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
