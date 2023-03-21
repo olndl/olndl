@@ -12,7 +12,6 @@ In my free time, I strengthen my knowledge of English and Flutter development.
 [![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=Telegram&logoColor=white)](https://t.me/shiryavceva) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/olndl) 
 [![HabrCareer](https://img.shields.io/badge/HabrCareer-%234F5DAE.svg?logo=HabrCareer&logoColor=white)](https://career.habr.com/olundel)
-[![CV](https://img.shields.io/badge/CV-%234F5DAE.svg?logo=CV&logoColor=white)](https://docs.google.com/document/d/139ft36AKX6Tv3qVl1lmfUerrnofbYRraj1RICw8Wvq4/edit?usp=sharing)
 
 # 💻 Tech Stack:
 Git, Java, Android SDK, Fragments, Dart, Event Loop, Isolates, Flutter, Riverpod, BloC, Freezed, Dio, AutoRoute, SQFLite, Hive, GetIt, Firebase Authentication, Firebase Crashlytics, Firebase Analytics, Figma, Jira
