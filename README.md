@@ -8,10 +8,6 @@ In my free time, I strengthen my knowledge of English and Flutter development.
 
 <img src="https://komarev.com/ghpvc/?username=olndl&style=flat-square&color=blue" alt=""/>
 
-## 🌐 Socials:
-[![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=Telegram&logoColor=white)](https://t.me/shiryavceva) 
-[![HabrCareer](https://img.shields.io/badge/HabrCareer-%234F5DAE.svg?logo=HabrCareer&logoColor=white)](https://career.habr.com/olundel)
-
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/olndl)  -->
 
 # 💻 Tech Stack:
