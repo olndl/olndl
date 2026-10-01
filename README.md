@@ -1,1 +1,2 @@
-Computational Mathematics student building API-first tools, integrations and automation workflows with Python and TypeScript. I also build mobile apps with Flutter and Swift.
+Software engineer with three years of commercial experience.
+M.Sc. Computational Mathematics at the University of Passau.
